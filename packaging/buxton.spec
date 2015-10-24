@@ -1,7 +1,7 @@
 Name:    buxton
 Version: 2
 Release: 1
-License: LGPL-2.1+ and MIT
+License: LGPL-2.1
 Group:   Framework/system
 Summary: buxton
 Source0: %{name}-%{version}.tar.bz2
